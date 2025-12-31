@@ -1,4 +1,4 @@
-# I40KG KGE DATASET
+# I40KG KGE Dataset
 **I40KG** is a publicly available Knowledge Graph Embedding (KGE) dataset derived from the industrial production domain. It was first introduced in our paper: ***“Interleaving and Cross-Attention Presents Efficient Knowledge Graph Embedding”*** (Wu et al., 2025).
 
 The raw data originates from the benchmark study: ***“A Benchmark Dataset with Knowledge Graph Generation for Industry 4.0 Production Lines”*** (Yahya et al., 2024). We have carefully preprocessed and structured this data into a practical KGE dataset, making it suitable for training and evaluating KGE models on real-world industrial relational data.
